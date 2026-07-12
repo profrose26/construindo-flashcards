@@ -12,6 +12,6 @@ width: 260px;
 height: 200px;
 }
 
-.cartao-imagem {
+.cartao-frente, .cartao-verso {
 width: 100%;
 }
