@@ -73,6 +73,15 @@ footer {
 .cartao-verso { 
   transform: rotateY(180deg); 
 } 
+section { 
+  display: flex; 
+  gap: 16px; 
+} 
+
+<section class="cartoes"> 
+  <article class="cartao">...</article> 
+  <article class="cartao">...</article> 
+</section> 
 
 
 
